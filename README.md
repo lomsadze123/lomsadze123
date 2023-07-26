@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front-end Development**
 
-- 👨‍💻 All of my projects are available at [lomsadze123]([lomsadze123](https://github.com/lomsadze123))
+- 👨‍💻 All of my projects are available at [[lomsadze123]([lomsadze123](https://github.com/lomsadze123))](https://github.com/lomsadze123)
 
 - 📫 How to reach me **beka.lomsadze.1@btu.edu.ge**
 
