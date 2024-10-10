@@ -1,7 +1,7 @@
 ![windowsXp](https://github.com/lomsadze123/lomsadze123/assets/91826108/1917daae-6ed6-4a60-8174-b4762d44a63a)
 
 <h1 align="center">Hi 👋, I'm Beka Lomsadze</h1>
-<h3 align="center">Full Stack (MERN) Developer from Georgia</h3>
+<h3 align="center">Full Stack Developer from Georgia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/a7/c7/fba7c713a78dc212c5f53aab264d2166.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomsadze123&label=Profile%20views&color=0e75b6&style=flat" alt="lomsadze123" /> </p>
