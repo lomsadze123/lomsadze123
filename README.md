@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomsadze123&label=Profile%20views&color=0e75b6&style=flat" alt="lomsadze123" /> </p>
 
-- 🌱 I’m currently learning **Full Stack (MERN) Development**
+- 🌱 I’m **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [lomsadze123](https://github.com/lomsadze123)
 
